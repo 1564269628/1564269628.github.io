@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1564269628.github.io</id>
     <title>球玩意~忽悠侠！</title>
-    <updated>2021-02-15T11:18:26.091Z</updated>
+    <updated>2021-02-15T11:29:51.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1564269628.github.io"/>
     <link rel="self" href="https://1564269628.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <logo>https://1564269628.github.io/images/avatar.png</logo>
     <icon>https://1564269628.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 球玩意~忽悠侠！</rights>
+    <entry>
+        <title type="html"><![CDATA[球玩意~忽悠侠！]]></title>
+        <id>https://1564269628.github.io/post/qiu-wan-yi-~hu-you-xia/</id>
+        <link href="https://1564269628.github.io/post/qiu-wan-yi-~hu-you-xia/">
+        </link>
+        <updated>2021-02-15T11:23:44.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>这是我没事玩的一个博客，欢迎进来。</strong><br>
+我的QQ是<strong>1564269628</strong><br>
+欢迎你收藏一下我的博客，谢谢。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小朋友们，你们好。]]></title>
         <id>https://1564269628.github.io/post/xiao-peng-you-men-ni-men-hao/</id>
